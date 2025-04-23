@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>clic</id>
+    <version>2.0.255</version>
+    <title>Clic</title>
+    <authors>Blaiz Enterprises</authors>
+    <owners>Blaiz Enterprises</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://opensource.org/license/mit</licenseUrl>
+    <projectUrl>https://www.blaizenterprises.com/clic.html</projectUrl>
+    <iconUrl>https://rawcdn.githack.com/blaiz2023/clic/dc8548caedd90872d85effc6c06590fb443203d9/images/clic-256.png</iconUrl>
+    <description>Clic is a Clipboard To Icon Converter.  Generate stunning icons in true color (24bit, 16.7 million colors) with transparency. Screen Capture grabs an icon from anywhere on the screen in realtime, or Paste to Fit auto resizes your picture. So Simple!
+
+Internet authors create your favicon.ico for website representation.
+
+![Clic v2.0.255 Screenshot](https://rawcdn.githack.com/blaiz2023/clic/dc8548caedd90872d85effc6c06590fb443203d9/images/clic-animated.gif)
+
+Features
+* Enlarged icon view
+* Realtime WYSIWYG (What You See Is What You Get)
+* Precision Screen Capture - whilst screen capturing, press space bar to toggle between normal / fine mode
+* Auto format determination 1, 4, 8 and 24bit
+* Multiple icon sizes - 16x16, 24x24, 32x32, 48x48, 64x64, 72x72 and 96x96
+* Options: Transparency - user definable, greyscale conversion
+* Icon Details: Colors, Bits, Bytes, Greyscale, Transparent, Dimensions
+* Copy / Paste / Paste to Fit / Invert / Mirror / Flip
+* Drag and drop images in BMP and JPG format
+* Rotate Left-Right 90, 180, 270 degrees
+* Help Viewer
+* Sizeable
+*Portable - No installation
+
+Tip:
+Clic is portable and will run from within the folder you download it to.
+
+Technical Note:
+An icon created with Clic may display at a different size on your Windows Desktop, because the Desktop forces all icons, regardless of actual size, to display at the Desktop's current display size setting.  For instance, if your Desktop is set to display icons at 64w x 64h, then a 32w x 32h icon will be zoomed up 200% to fit.</description>
+    <summary>Generate stunning icons in 16.7 million colors + transparency.  Screen capture or paste in an image and save.  So simple!  Website owners create your favicon.ico.</summary>
+    <copyright>2025 Blaiz Enterprises</copyright>
+    <tags>generate stunning icons in 16 7 million colors + transparency screen capture or paste an image and save so simple! website owners create your favicon ico</tags>
+    <projectSourceUrl>https://github.com/blaiz2023/clic</projectSourceUrl>
+    <packageSourceUrl>https://github.com/blaiz2023/clic/tree/main/choco</packageSourceUrl>
+    <docsUrl>https://www.blaizenterprises.com/clic.html#help</docsUrl>
+    <bugTrackerUrl>https://www.blaizenterprises.com/contact.html</bugTrackerUrl>
+  </metadata>
+</package>
