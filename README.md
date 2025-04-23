@@ -5,7 +5,7 @@ Internet authors create your favicon.ico for website representation.
 
 <img src="images/clic-animated.gif">
 
-Features
+# Features
 * Enlarged icon view
 * Realtime WYSIWYG (What You See Is What You Get)
 * Precision Screen Capture - whilst screen capturing, press space bar to toggle between normal / fine mode
