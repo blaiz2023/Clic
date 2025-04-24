@@ -38,7 +38,7 @@ Technical Note:
 An icon created with Clic may display at a different size on your Windows Desktop, because the Desktop forces all icons, regardless of actual size, to display at the Desktop's current display size setting.  For instance, if your Desktop is set to display icons at 64w x 64h, then a 32w x 32h icon will be zoomed up 200% to fit.</description>
     <summary>Generate stunning icons in 16.7 million colors + transparency.  Screen capture or paste in an image and save.  So simple!  Website owners create your favicon.ico.</summary>
     <copyright>2025 Blaiz Enterprises</copyright>
-    <tags>generate stunning icons in 16 7 million colors + transparency screen capture or paste an image and save so simple! website owners create your favicon ico</tags>
+    <tags>generate stunning icons in 16 7 million colors transparency screen capture or paste an image and save so simple website owners create your favicon ico</tags>
     <projectSourceUrl>https://github.com/blaiz2023/clic</projectSourceUrl>
     <packageSourceUrl>https://github.com/blaiz2023/clic/tree/main/choco</packageSourceUrl>
     <docsUrl>https://www.blaizenterprises.com/clic.html#help</docsUrl>
