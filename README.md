@@ -27,7 +27,7 @@ Technical Note:<br>
 An icon created with Clic may display at a different size on your Windows Desktop, because the Desktop forces all icons, regardless of actual size, to display at the Desktop's current display size setting.  For instance, if your Desktop is set to display icons at 64w x 64h, then a 32w x 32h icon will be zoomed up 200% to fit.
 
 # Download
-Download <a href="src/clic.exe">dhelp.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above.
+Download <a href="src/clic.exe">clic.exe</a> or from the "<a href="bin/">bin</a>" or "<a href="src/">src</a>" folders above.
 
 # Images
 <img src="images/clic-screenshot.jpg">
